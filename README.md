@@ -1,5 +1,10 @@
 ### Hi there 👋
+<p>I’m currently pursuing First year Computer science engineering 💻.Basically I am a technology buff. I enjoy participating in interesting conversations and research spanning from books,technology, cultures, languages, science , finance, fitness, cooking, TV shows and movies in general. I am learning to code always open for criticism.
 
+
+
+<i>“I believe that the world is not only made up of atoms, but it is also made up of stories, each and everyone has a unique and different story, the silent struggle behind the story is what brings us together.”</i></p>
+###
 <!--
 **Prajwalprakash3722/Prajwalprakash3722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
