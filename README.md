@@ -3,12 +3,31 @@
 
 <h4>
   🌱 I’m currently learning Python, MatLab. </br>
-  ⚡ Fun fact: My Favorite Subject is Mathematics.</br>
-  📫 My Portfolo : https://prajwalprakash3722.github.io/prajwalsportfolio/
+  😄 Fun fact: My Favorite Subject is Mathematics.</br>
+  📫 My Portfolo : https://prajwalprakash3722.github.io/prajwalsportfolio/ </br>
+  🔭 I’m currently working on Intermediate Python Projects. </br>
+  ⚡ Skill set :   
+  <ul>
+            <li>Html</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>C</li>
+            <li>C++</li>
+         </ul>
+   ⚡ Currently Learning Skills: 
+   
+   <ul>
+           <li>Oops in Python</li>
+            <li>Django Framework </li>
+            <li>Advanced Python</li>
+            <li>Machine Learning</li>
+         </ul>   
+        
+         
 <br>
 </br>
 <i>“I believe that the world is not only made up of atoms, but it is also made up of stories, each and everyone has a unique and different story, the silent struggle behind the story is what brings us together.”</i></p>
-###
 <!--
 **Prajwalprakash3722/Prajwalprakash3722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
