@@ -4,7 +4,7 @@
 <h4>
   🌱 I’m currently learning Python, MatLab. </br> </br>
   😄 Fun fact: My Favorite Subject is Mathematics.</br> </br>
-  📫 My Portfolo : https://prajwalprakash3722.github.io/prajwalsportfolio/ </br> </br>
+  📫 My Portfolo : [portfolio](https://prajwalprakash3722.github.io/prajwalsportfolio/)</br> </br>
   🔭 I’m currently working on Intermediate Python Projects. </br> </br>
   ⚡ Skill set :   
   <ul>
@@ -19,9 +19,9 @@
    
    <ul>
            <li>Oops in Python</li>
-            <li>Django Framework </li>
             <li>Advanced Python</li>
             <li>Machine Learning</li>
+              <li>React Framework</li>
          </ul>   
         
          
@@ -40,4 +40,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> let's say Hi to you!
+<section>
+```python
+
+name = input("Enter Your Good name!)
+print("Hello", name , "I am Prajwal")
+```
+</section>
