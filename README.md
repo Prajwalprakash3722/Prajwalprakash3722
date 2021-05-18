@@ -27,7 +27,7 @@ name = input("Enter Your Good name! ")
 print("Hello", name , "I am Prajwal")
 ```
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-- 📫 How to reach me: [gmail](prajwalprakash3722@gmail.com)
+- 📫 How to reach me: [gmail](mailto:prajwalprakash3722@gmail.com)
 <!--
 **Prajwalprakash3722/Prajwalprakash3722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
