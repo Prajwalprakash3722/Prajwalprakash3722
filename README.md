@@ -4,7 +4,10 @@
   🌱 I’m currently learning Python, MatLab. </br> </br>
   😄 Fun fact: My Favorite Subject is Mathematics.</br> </br>
   📫 My Portfolo : [portfolio](https://prajwalprakash3722.github.io/prajwalsportfolio/)</br> 
-     I am a beginner Open Source Contributor.</br> </br>
+    
+    I am a beginner Open Source Contributor.</br> </br>
+    My Primary Language in Python
+    
  ⚡ Skill set : </br>
     ![progress](https://user-images.githubusercontent.com/71436720/118646262-9804ea80-b7fd-11eb-983f-dde3c9dcabad.gif) </br>
   ⚡ Currently Learning Skills: 
