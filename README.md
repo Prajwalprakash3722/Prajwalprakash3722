@@ -31,6 +31,18 @@ print("Hello", name , "I am Prajwal")
 ```
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 - 📫 How to reach me: [gmail](mailto:prajwalprakash3722@gmail.com)
+<details open>
+<summary style="cursor: pointer;">GITHUB STATS</summary>
+<div align=center>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwalprakash3722&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/Prajwalprakash3722)
+</div>
+</details>
+
+## Tech Stack
+languages | Code editor | VCS | OS
+------------ | -------------|---------------|------------
+Html, Css, Js, C, C++, Py|Vs-code |Github|Linux
 <!--
 **Prajwalprakash3722/Prajwalprakash3722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
