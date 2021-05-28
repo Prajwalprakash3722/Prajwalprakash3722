@@ -1,6 +1,9 @@
 ### Hi there 👋
 <p>I’m currently pursuing First year Computer science engineering 💻.Basically I am a technology buff. I enjoy participating in interesting conversations and research spanning from books,technology, cultures, languages, science , finance, fitness, cooking, TV shows and movies in general. I am learning to code always open for criticism.
 
+### Todays Joke 😄
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
   🌱 I’m currently learning Python, MatLab. </br> </br>
   😄 Fun fact: My Favorite Subject is Mathematics.</br> </br>
   📫 My Portfolo : [portfolio](https://prajwalprakash3722.github.io/prajwalsportfolio/)</br> 
