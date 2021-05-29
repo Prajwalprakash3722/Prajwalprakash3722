@@ -39,6 +39,7 @@ print("Hello", name , "I am Prajwal")
 <div align=center>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwalprakash3722&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/Prajwalprakash3722)
+![Github Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Prajwalprakash3722&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)
 </div>
 </details>
 
