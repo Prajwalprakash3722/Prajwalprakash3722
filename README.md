@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I’m currently pursuing First year Computer science engineering 💻.Basically I am a technology buff. I enjoy participating in interesting conversations and research spanning from books,technology, cultures, languages, science , finance, fitness, cooking, TV shows and movies in general. I am learning to code always open for criticism.
+<p>I’m currently pursuing Second year Computer science engineering 💻.Basically I am a technology buff. I enjoy participating in interesting conversations and research spanning from books,technology, cultures, languages, science , finance, fitness, cooking, TV shows and movies in general. I am learning to code always open for criticism.
 
 ### Todays Joke 😄
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -18,11 +18,11 @@
    + Machine Learning
    + React Framework
       
-  ⚡ Projects:
+<!--   ⚡ Projects:
   + To-do Web-App
   + Covid Vaccine slot tracker
   + Covid Tweet retweet bot
-  + Cryptoprice-tracker (Development stage) </br>
+  + Cryptoprice-tracker (Development stage) </br> -->
 
 <i>“I believe that the world is not only made up of atoms, but it is also made up of stories, each and everyone has a unique and different story, the silent struggle behind the story is what brings us together.”</i></p>
 
