@@ -30,7 +30,7 @@
 ```python
 
 name = input("Enter Your Good name! ")
-print("Hello", name , "I am Prajwal")
+print("Hello {0} I am Prajwal".format(name))
 ```
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 - 📫 How to reach me: [gmail](mailto:prajwalprakash3722@gmail.com)
