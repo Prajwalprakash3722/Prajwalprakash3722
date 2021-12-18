@@ -1,9 +1,9 @@
 ### Hi there 👋
-<p>I’m currently pursuing Second year Computer science engineering 💻.Basically I am a technology buff. I enjoy participating in interesting conversations and research spanning from books,technology, cultures, languages, science , finance, fitness, cooking, TV shows and movies in general. I am learning to code always open for criticism.
+<!-- <p>I’m currently pursuing Second year Computer science engineering 💻.Basically I am a technology buff. I enjoy participating in interesting conversations and research spanning from books,technology, cultures, languages, science , finance, fitness, cooking, TV shows and movies in general. I am learning to code always open for criticism. -->
 
 ### Todays Joke 😄
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
+<!-- 
   🌱 I’m currently learning Python, MatLab. </br> </br>
   😄 Fun fact: My Favorite Subject is Mathematics.</br> </br>
   📫 My Portfolo : [portfolio](https://prajwalprakash3722.github.io/prajwalsportfolio/)</br> 
@@ -16,7 +16,7 @@
   ⚡ Currently Learning Skills: 
    + Oops in Python
    + Machine Learning
-   + React Framework
+   + React Framework -->
       
 <!--   ⚡ Projects:
   + To-do Web-App
@@ -33,15 +33,15 @@ name = input("Enter Your Good name! ")
 print("Hello {0} I am Prajwal".format(name))
 ```
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-- 📫 How to reach me: [gmail](mailto:prajwalprakash3722@gmail.com)
+<!-- - 📫 How to reach me: [gmail](mailto:prajwalprakash3722@gmail.com)
 <details open>
 <summary style="cursor: pointer;">GITHUB STATS</summary>
-<div align=center>
+<div align=center> -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwalprakash3722&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/Prajwalprakash3722)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwalprakash3722&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/Prajwalprakash3722)
 ![Github Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Prajwalprakash3722&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)
 </div>
-</details>
+</details> -->
 
 ## Tech Stack
 languages | Code editor | VCS | OS
